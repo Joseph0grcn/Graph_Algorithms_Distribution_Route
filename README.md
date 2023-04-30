@@ -1,4 +1,4 @@
-# Graph_Algorithms_Distribution_Route
+
 <h1>Graph_Algorithms_Distribution_Route</h1>
 seçilen kordinatlarda ana lojistik merkez seçiminin yapılması ve harita üzerinde bu noktaların gösterilmesinden oluşan bir projedir
 
